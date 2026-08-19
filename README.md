@@ -6,6 +6,6 @@ I felt like my UML diagrams were designed well for what DriverPass wanted to be 
 # If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 If I was to revise my work, I would advance the design of these diagrams to be closer to a realistic model.
 # How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
-I mostly listened to what Liam and his people asked for, however I included some extra details, mainly about the login. I included a check for both user ID and user password.
+I listened to what Liam and his people asked for, however I included some extra details, mainly about the login. I included a check for both user ID and user password.
 # How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 To designing software, this project taught me the benifit to creating diagrams before starting coding the system. As I created my class diagram, I realised the importance of creating diagrams before coding. 
